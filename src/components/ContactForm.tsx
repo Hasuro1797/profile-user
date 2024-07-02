@@ -1,7 +1,7 @@
 "use client";
-import React, { useState } from "react";
-import TitleComponent from "./TitleComponent";
+import { useState } from "react";
 import { SubmitHandler, useForm } from "react-hook-form";
+import TitleComponent from "./TitleComponent";
 
 interface IFormInputs {
   name: string;

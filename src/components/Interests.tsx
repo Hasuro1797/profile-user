@@ -1,15 +1,13 @@
 import { interestList } from "@/lib/interestList";
-import React from "react";
-import InterestCard from "./InterestCard";
 import { FaCode } from "react-icons/fa";
 import { FaArrowTrendUp } from "react-icons/fa6";
-import { MdComputer, MdOutlineTravelExplore } from "react-icons/md";
-import { RiOpenSourceLine } from "react-icons/ri";
-import { SiDavinciresolve, SiSololearn } from "react-icons/si";
 import { GiEngagementRing } from "react-icons/gi";
 import { HiOutlinePhotograph } from "react-icons/hi";
 import { IoGameControllerOutline } from "react-icons/io5";
-import { IconType } from "react-icons";
+import { MdComputer, MdOutlineTravelExplore } from "react-icons/md";
+import { RiOpenSourceLine } from "react-icons/ri";
+import { SiDavinciresolve, SiSololearn } from "react-icons/si";
+import InterestCard from "./InterestCard";
 import TitleComponent from "./TitleComponent";
 
 export default function Interests() {
