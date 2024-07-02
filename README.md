@@ -2,7 +2,7 @@
 
 ## Configuración del Proyecto
 
-Este proyecto utiliza [Vite](https://vitejs.dev/) y [React](https://reactjs.org/).
+Este proyecto utiliza [Nextjs](https://nextjs.org/) y [React](https://reactjs.org/).
 
 ### Prerrequisitos
 
@@ -66,5 +66,5 @@ npx serve -s dist
 
 ## Información Adicional
 
-- [Documentación de Vite](https://vitejs.dev/guide/):
+- [Documentación de Next](https://nextjs.org/):
 - [Documentación de React](https://es.react.dev/learn):
