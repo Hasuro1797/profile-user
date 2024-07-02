@@ -15,8 +15,8 @@ Este proyecto utiliza [Vite](https://vitejs.dev/) y [React](https://reactjs.org/
 Clona el repositorio e instala las dependencias.
 
 ```bash
-git clone https://github.com/aproctur/landing-page.git
-cd landing-page
+git clone https://github.com/Hasuro1797/profile-user.git
+cd profile-user
 npm install
 ```
 
